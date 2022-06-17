@@ -25,7 +25,7 @@
     * Перейди на https://github.com/coreybutler/nvm-windows#node-version-manager-nvm-for-windows
     * Справа найди **Releases**
     * Тыкай на последний
-    * Там качай файл с названием **nvm-noinstall.zip**
+    * Там качай файл с названием **nvm-setup.exe**
     * Устанавливай
     * Скорее всего выскочит окно с вопросом о том, дать ли право управлять версиями node js, отмечай да
 6. Установим последнюю версию NodeJS
